@@ -21,5 +21,6 @@
     { "itemName": "stone_bricks", "prettyName": "Stone Bricks", "cost": 2, "minbuy": 64 },
     { "itemName": "bricks", "prettyName": "Bricks", "cost": 12, "minbuy": 64 },
     { "itemName": "stone", "prettyName": "Stone", "cost": 2, "minbuy": 64 },
-    { "itemName": "concrete", "prettyName": "Concrete", "cost": 16, "minbuy": 64 }
+    { "itemName": "concrete", "prettyName": "Concrete", "cost": 16, "minbuy": 64 },
+     { "itemName": "taco_bell", "prettyName": "Taco Bell", "cost": 16, "minbuy": 64 }
 ]
